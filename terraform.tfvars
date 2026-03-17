@@ -2,4 +2,6 @@ aws_region          = "ap-south-1"
 project_name        = "zomatos"
 project_environment = "production"
 instance_type       = "t3.micro"
-
+domain_name         = "devopsclass.shop"
+hostname            = "terraform-webserver"
+instance_ami        = "ami-0317b0f0a0144b137"
